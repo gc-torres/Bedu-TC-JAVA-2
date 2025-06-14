@@ -15,6 +15,10 @@ public class Pedido {
     public String getTipoEntrega(){
         return tipoEntrega;
     }
+    
+    public String getCliente(){
+        return cliente;
+    }
     public Optional<String> getTelefono(){
         return Optional.ofNullable(telefono); 
     }
