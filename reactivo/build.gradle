@@ -38,5 +38,6 @@ tasks.named('test') {
 application {
     //mainClass = 'org.Bedu.reactivo.MeridianPrimeSystem'
 	//mainClass = 'org.Bedu.reactivo.PacienteMonitor'
-	mainClass = 'org.Bedu.reactivo.Sesion_6.Reto_1.InventarioApplication'
+	//mainClass = 'org.Bedu.reactivo.Sesion_6.Reto_1.InventarioApplication'
+	mainClass = 'org.Bedu.reactivo.Sesion_6.Ejecutar'
 }

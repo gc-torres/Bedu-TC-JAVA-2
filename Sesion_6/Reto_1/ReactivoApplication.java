@@ -1,4 +1,4 @@
-package org.Bedu.reactivo;
+package org.Bedu.reactivo.Sesion_6.Reto_1;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

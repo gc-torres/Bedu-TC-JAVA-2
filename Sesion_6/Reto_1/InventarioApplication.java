@@ -13,7 +13,7 @@ public class InventarioApplication {
     }
 
     @Bean
-    CommandLineRunner run(ProductoRepository repo) {
+    CommandLineRunner run(ProductoBodega repo) {
         return args -> {
             repo.save(new Producto("Laptop Lenovo", "Portátil de alto rendimiento", 12500));
             repo.save(new Producto("Mouse Logitech", "Mouse inalámbrico", 350));
