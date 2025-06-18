@@ -13,8 +13,8 @@ Use por convención y comodidad propia el IDE VS Code y ejecuto ▶️ los archi
 
 En el caso de los retos de las sesiones 5️⃣ - 6️⃣ uso el: 
 
-- ./gradlew bootRun
+- ./gradlew bootRun 
 
-Para usarlo debo estar dentro de la carpeta reactivo y deje en comentarios en el build.gradlew aquellos con las main class de cada reto para poder ejecutarlo. 
+Para usarlo debo estar dentro de la carpeta reactivo :electron: y deje en comentarios en el build.gradlew aquellos con las main class de cada reto para poder ejecutarlo. 
 
 Nota: Los retos están dentro de src/main/java/org/Bedu/reactivo 
