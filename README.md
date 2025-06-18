@@ -17,4 +17,4 @@ En el caso de los retos de las sesiones 5️⃣ - 6️⃣ uso el:
 
 Para usarlo debo estar dentro de la carpeta reactivo :electron: y deje en comentarios en el build.gradlew aquellos con las main class de cada reto para poder ejecutarlo. 
 
-Nota: Los retos están dentro de src/main/java/org/Bedu/reactivo 
+Nota: Los retos están dentro de src/main/java/org/Bedu/reactivo y fuera de ella. Pueden revisarlo dentro para comprobar que sí se ejecuta y fuera solo para ver el codigo. 
